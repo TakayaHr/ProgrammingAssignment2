@@ -24,7 +24,7 @@ cacheSolve <- function(x) {
        y
        }
        else{
-       mesaage("Determinant of this matrix is 0.")
+       messsage("Determinant of this matrix is 0.")
        x
        }
 }
